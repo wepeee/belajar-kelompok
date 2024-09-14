@@ -7,5 +7,7 @@ public class coba {
         System.out.println("ngantuk");
         
         System.out.println(compliment + " " + nama);
+
+        System.out.println("tambahan atasan");
     }
 }
