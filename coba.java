@@ -10,7 +10,8 @@ public class coba {
 
         System.out.println("tambahan atasan");
         System.out.println("mau bobok");
-        System.out.println("janji ini terakhir");
+        System.out.println("janji ini terak hir");
         System.out.println("love u");
+        System.out.println("blabla coba git terminal");
     }
 }
