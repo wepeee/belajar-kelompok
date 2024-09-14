@@ -13,5 +13,6 @@ public class coba {
         System.out.println("janji ini terak hir");
         System.out.println("love u");
         System.out.println("blabla coba git terminal");
+        System.out.println("coba sbg early");
     }
 }
