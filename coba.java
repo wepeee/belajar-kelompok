@@ -10,5 +10,6 @@ public class coba {
 
         System.out.println("tambahan atasan");
         System.out.println("mau bobok");
+        System.out.println("janji ini terakhir");
     }
 }
