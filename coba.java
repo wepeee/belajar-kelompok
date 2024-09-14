@@ -5,9 +5,10 @@ public class coba {
         System.out.println("File siap diedit");
         System.out.println("file early");
         System.out.println("ngantuk");
-        
+
         System.out.println(compliment + " " + nama);
 
         System.out.println("tambahan atasan");
+        System.out.println("mau bobok");
     }
 }
